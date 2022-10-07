@@ -25,7 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<p align="center">
+<img src="https://github.com/VladenCode/FM-Order-summary-card/tree/main/order-summary-component-main/screenshot.png" width="400" height="250" />
+</p>
 
 ### Links
 
