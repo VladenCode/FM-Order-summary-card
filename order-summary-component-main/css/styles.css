@@ -44,6 +44,9 @@ html {
 }
 
 body {
+  background-image: url(/order-summary-component-main/images/pattern-background-mobile.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
   background-color: var(--cl-s-veryPaleBlue);
   display: flex;
   flex-direction: column;
@@ -153,6 +156,9 @@ desktop styles
 @media (min-width: 500px) {
   html {
     font-size: 90%;
+  }
+  body {
+    background-image: url(/order-summary-component-main/images/pattern-background-desktop.svg);
   }
   .card {
     width: 350px;
