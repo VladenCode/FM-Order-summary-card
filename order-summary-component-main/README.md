@@ -61,6 +61,5 @@ What to get confortable with useing one naming convection and then to experiment
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@VladenCode](https://www.frontendmentor.io/profile/VladenCode)
 - Twitter - [@VladTheCveja](https://twitter.com/VladTheCveja)
